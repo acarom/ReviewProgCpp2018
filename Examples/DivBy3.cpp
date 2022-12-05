@@ -5,11 +5,11 @@ int main(void)
 {
   double a = 0.0;
   double z = 0.0;
-  std::cout << "Por favor escriba un numero: \n";
+  std::cout << "Please write a number: || Por favor escriba un numero: \n";
   std::cin >> a;
 
   z=a/3;
-  std::cout << a << " dividido 3 es igual a " << z << "\n";
+  std::cout << a << " divided by 3 is equal to || dividido 3 es igual a " << z << "\n";
   
    return 0;
 }
