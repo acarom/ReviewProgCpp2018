@@ -1,0 +1,15 @@
+//  A number divided by 3 || Un numero x divido 3.
+#include <iostream>
+
+int main(void)
+{
+  double a = 0.0;
+  double z = 0.0;
+  std::cout << "Por favor escriba un numero: \n";
+  std::cin >> a;
+
+  z=a/3;
+  std::cout << a << " dividido 3 es igual a " << z << "\n";
+  
+   return 0;
+}
