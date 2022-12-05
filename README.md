@@ -1,3 +1,3 @@
 # ReviewProgCpp2018
 
-Review od 2018 Programming and introduction to numerical methods
+Review of the 2018 Programming and introduction to numerical methods course
