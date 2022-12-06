@@ -10,7 +10,7 @@ int main ()
 {
   double r = 5.0;
   double circle;
-  //area del circulo
+  //Area of a circle || area del circulo
   circle = pi * r * r;
     std::cout << circle << tab << "is the area of a circle" << nl;
     std::cout << "of radius " << r << nl ;
